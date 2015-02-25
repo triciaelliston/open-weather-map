@@ -1,0 +1,19 @@
+{
+  "name": "open-weather-mpa",
+  "version": "0.0.0",
+  "homepage": "https://github.com/triciaelliston/open-weather-map",
+  "authors": [
+    "Tricia Elliston <triciaelliston@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
